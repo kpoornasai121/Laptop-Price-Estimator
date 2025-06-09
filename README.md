@@ -59,10 +59,6 @@ To run the Laptop Price Estimator locally, follow these steps:
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgments
 
 - Thanks to the Streamlit team for providing an excellent framework for building data applications.
